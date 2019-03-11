@@ -9,6 +9,7 @@ public class Lesson2 {
         outer: for(int i = 0; i < 3; i++){
 
         }
+        System.out.println("111");
     }
 
 
